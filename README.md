@@ -1,7 +1,7 @@
 # Learn Python from Mike Dane / freeCodeCamp
 
-This is quite possibly the most viewed complete Python course in the history of the universe. 
-Tons of people love Mike Dane's teaching style. 
+This is quite possibly the most viewed complete Python course in the history of the universe. <br> 
+Tons of people love Mike Dane's teaching style. <br>
 He uses the PyCharm IDE and makes frequent references to pop culture.
 
 This course is best for people who love NASA and like relatable teachers.
